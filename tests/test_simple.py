@@ -1,4 +1,4 @@
-from simple import find_kth_largest_ele
+from selectk.simple import find_kth_largest_ele
 
 def test_find_kth_largest_ele():
     for i in range(10):
